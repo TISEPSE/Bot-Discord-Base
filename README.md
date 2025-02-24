@@ -11,14 +11,9 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 - **<ins>Commande slash<ins>** : En créant simplement des commandes slash dans le dossier, il est très facile d'intégrer de nouvelles commandes pour le bot.
 
 ## Dépendances
-- **Ouvrir un terminale et tapez:** node -v
-
-> [!POAIUDFHPOAIUHDOUIG]
-> Negative potential consequences of an action.
-
-
 > [!WARNING]  
-> Vérifie avec :
+> Assure toi d'avoir nodeJs
+> **<ins>Ouvre un terminale</ins>**
 sh
 Copier
 Modifier
