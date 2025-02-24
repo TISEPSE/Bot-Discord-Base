@@ -14,14 +14,13 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 
 - **Ouvrir un terminale et tapez:** node -v
 
-> [Assure-toi d’avoir Node.js!]  
+> [!WARNING]  
 > Vérifie avec :
 sh
 Copier
 Modifier
 node -v
 Si ce n’est pas installé, télécharge-le ici : https://nodejs.org/
-
 ```bash
 
    node -v
