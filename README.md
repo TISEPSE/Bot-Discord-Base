@@ -12,8 +12,8 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 
 ## Dépendances
 > [!WARNING]  
-> Avant de commencer l'iunstalation, assure toi d'avoir nodeJs d'installer !
- Si ce n’est pas installé, télécharge-le ici : https://nodejs.org/
+> Avant de commencer l'instalation, assure toi d'avoir nodeJs d'installer !
+ Si ce n’est pas le cas, télécharge-le ici : https://nodejs.org/
 
 - Une fois Node Js d'installer tapez les commandes ci-dessous:
 ```bash
