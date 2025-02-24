@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce bot Discord est un projet privé que j'utilise personnellement pour automatiser certaines tâches quotidiennes et résoudre divers problèmes qui peuvent survenir. Le but principal est de faciliter des actions répétitives et d'apporter des solutions pratiques aux besoins spécifiques que je rencontre.
+Voici une base de bot Discord avec commandes slash. Il peut être modifié comme bon vous semble. Il est généralement difficile de trouver des bases de bots Discord fonctionnelles dès le clonage du dépôt. Je mets donc à disposition ce petit bot pour faciliter la tâche de nombreux développeurs Discord. 
 
 ## Fonctionnalités
 
