@@ -7,15 +7,15 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 ## Fonctionnalités
 
 - **<ins>Connection au serveur cible<ins>** : Le bot se connecte directement au serveur grâce à l'ID situé dans le fichier ".env".
-- **Adaptabilité** : Le code est modulaire et, puisque ce n'est qu'une base, il peut être très facilement modifié.
-- **Commande slash** : En créant simplement des commandes slash dans le dossier, il est très facile d'intégrer de nouvelles commandes pour le bot.
+- **<ins>Adaptabilité<ins>** : Le code est modulaire et, puisque ce n'est qu'une base, il peut être très facilement modifié.
+- **<ins>Commande slash<ins>** : En créant simplement des commandes slash dans le dossier, il est très facile d'intégrer de nouvelles commandes pour le bot.
 
 ## Dépendances
 
 - **Ouvrir un terminale et tapez:** node -v
-Assure-toi d’avoir Node.js
-Vérifie avec :
 
+> [Assure-toi d’avoir Node.js!]  
+> Vérifie avec :
 sh
 Copier
 Modifier
