@@ -6,13 +6,21 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 
 ## Fonctionnalités
 
-- **Automatisation de tâches quotidiennes** : Répondre à des commandes pour effectuer certaines actions sur le serveur Discord.
-- **Adaptabilité** : Le bot peut être personnalisé en fonction des besoins spécifiques du moment.
-- **Gestion des problèmes** : Il aide à résoudre des problématiques diverses grâce à des commandes spécifiques.
+- **Connection au serveur cible** : Le bot se connecte directement au serveur grâce à l'ID situé dans le fichier ".env".
+- **Adaptabilité** : Le code est modulaire et, puisque ce n'est qu'une base, il peut être très facilement modifié.
+- **Commande slash** : En créant simplement des commandes slash dans le dossier, il est très facile d'intégrer de nouvelles commandes pour le bot.
 
 ## Dépendances
 
 - **Ouvrir un terminale et rentrée:** node -v
+Assure-toi d’avoir Node.js
+Vérifie avec :
+
+sh
+Copier
+Modifier
+node -v
+Si ce n’est pas installé, télécharge-le ici : https://nodejs.org/
 
 ```bash
 
