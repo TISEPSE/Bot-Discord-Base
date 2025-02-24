@@ -25,7 +25,7 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 
 ## Télécharger en locale:
 
-1. Clone ce dépôt sur ta machine locale :
+1. Pour avoir clone le code directement dasn votre éditeur, Clonez ce dépôt sur votre machine locale :
 
    ```bash
 
