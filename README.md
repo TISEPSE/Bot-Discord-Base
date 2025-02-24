@@ -14,14 +14,14 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 > [!WARNING]  
 > Avant de commencer l'iunstalation, assure toi d'avoir nodeJs d'installer !
  Si ce n’est pas installé, télécharge-le ici : https://nodejs.org/
+
+- Une fois Node Js d'installer tapez les commandes ci-dessous:
 ```bash
 
    node -v
    npm install discord.js
    node -e "console.log(require('discord.js').version)"
 ```
-
-- S'il y a une erreur veuiller installer node JS et crée un projet
 
 ## Télécharger en locale:
 
