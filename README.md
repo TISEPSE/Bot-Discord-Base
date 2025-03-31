@@ -1,4 +1,4 @@
-# 🤖 Discord Bot - Projet Personnel
+# 🤖 Bot Discord - Projet Personnel / Projet Professionnel
 
 Voici une base de bot Discord avec commandes slash, modifiable selon vos besoins. Il est souvent difficile de trouver des bases fonctionnelles dès le clonage du dépôt. C'est pourquoi je mets à disposition ce bot afin de faciliter la tâche à de nombreux développeurs Discord.
 <br>
