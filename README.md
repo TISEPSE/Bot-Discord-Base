@@ -32,13 +32,13 @@ Une fois les étapes précédentes terminers, Clonez ce dépôt sur votre machin
    git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
    ```
 
-## Création du compte Discord Portal:
+## Création d'une application sur Discord Portal:
 
 1. Aller sur ce site: https://discord.com/developers/docs/intro
 2. Cliquez sur **Application**
 3. Cliquez sur **New Application** en haut a droite
 4. Donnez un nom a votre **Application**
 5. Aller dans l'onglet **Bot** et cliquez sur **Reset Token**
-6. Copier la suite de lettre et de chiffree et mettez le après le "=" dans le fichier **__.env__**
+6. Copier la suite de lettre et de chiffres et mettez le entre les parenthèse de **DISCORD_TOKEN=""** dans le fichier **__.env__**
 >[!CAUTION]
->Attention a ne jamais divulguez votre token d'authentification gardez le précieusement cacher !
+>Attention a ne jamais divulguez votre token d'authentification, gardez le précieusement cacher !
