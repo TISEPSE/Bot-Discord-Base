@@ -52,5 +52,6 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 
 7. Ensuite dans l'onglet <ins>**Bot**</ins> cocher les switches **Presence Intent**, **Server Members Intent** et **Message Content Intent**.
 8. Pour finir Rendez vous sur votre serveur discord comme suit:
+
 ![{9581D0D2-AB4F-4142-8E2B-F2F1FFCC8E4D}](https://github.com/user-attachments/assets/4dfe424e-c991-4549-9e78-90859aee3d95)
 
