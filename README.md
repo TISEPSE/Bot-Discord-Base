@@ -47,8 +47,8 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 DISCORD_TOKEN="votre_token_ici"
 ```
 <br>
->[!CAUTION]
->**Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
+> [!CAUTION]
+> **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
 <br>
 
 7. Dans l'onglet **Bot**, cochez les options suivantes :
