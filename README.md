@@ -36,7 +36,7 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 2. Cliquez sur **Applications**  
 3. Cliquez sur **New Application** en haut à droite  
 4. Donnez un nom à votre **Application**  
-5. Accédez à l'onglet **__Bot__** et cliquez sur **Reset Token**  
+5. Accédez à l'onglet <ins>**Bot**</ins> et cliquez sur **Reset Token**  
 6. Copiez le jeton généré et collez-le entre guillemets dans le fichier `.env`, comme suit :  
 
    ```env
@@ -46,5 +46,5 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 > [!CAUTION]  
 > **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
 
-7. Ensuite dans l'onglet **__Bot__** cocher les switches **Presence Intent**, **Server Members Intent** et **Message Content Intent**.
+7. Ensuite dans l'onglet <ins>**Bot**</ins> cocher les switches **Presence Intent**, **Server Members Intent** et **Message Content Intent**.
 8. 
