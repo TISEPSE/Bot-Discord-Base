@@ -2,43 +2,48 @@
 
 ## Description
 
-Voici une base de bot Discord avec commandes slash. Il peut être modifié comme bon vous semble. Il est généralement difficile de trouver des bases de bots Discord fonctionnelles dès le clonage du dépôt. Je mets donc à disposition ce petit bot pour faciliter la tâche de nombreux développeurs Discord. 
+Voici une base de bot Discord avec commandes slash, modifiable selon vos besoins. Il est souvent difficile de trouver des bases fonctionnelles dès le clonage du dépôt. C'est pourquoi je mets à disposition ce bot afin de faciliter la tâche à de nombreux développeurs Discord.  
 
 ## Fonctionnalités
 
-- **<ins>Connection au serveur cible<ins>** : Le bot se connecte directement au serveur grâce à l'ID situé dans le fichier ".env".
-- **<ins>Adaptabilité<ins>** : Le code est modulaire et, puisque ce n'est qu'une base, il peut être très facilement modifié.
-- **<ins>Commande slash<ins>** : En créant simplement des commandes slash dans le dossier, il est très facile d'intégrer de nouvelles commandes pour le bot.
+- **<ins>Connexion au serveur cible</ins>** : Le bot se connecte directement au serveur grâce à l'ID défini dans le fichier `.env`.  
+- **<ins>Adaptabilité</ins>** : Le code est modulaire et conçu comme une base facilement personnalisable.  
+- **<ins>Commandes slash</ins>** : Il suffit d'ajouter des fichiers de commande dans le dossier dédié pour intégrer de nouvelles fonctionnalités au bot.  
 
-## Dépendances
+## Dépendances  
+
 > [!TIP]  
-> Avant de commencer l'instalation, assure toi d'avoir nodeJs d'installer !
- Si ce n’est pas le cas, télécharge-le ici : https://nodejs.org/
+> Avant de commencer l'installation, assurez-vous que Node.js est installé !  
+> Si ce n’est pas le cas, téléchargez-le ici : [Node.js](https://nodejs.org/).  
 
-- Une fois Node Js d'installer tapez les commandes ci-dessous:
+- Une fois Node.js installé, exécutez les commandes suivantes :  
+
 ```bash
-
-   node -v
-   npm install discord.js
-   node -e "console.log(require('discord.js').version)"
+node -v
+npm install discord.js
+node -e "console.log(require('discord.js').version)"
 ```
 
-## Télécharger en locale:
+## Téléchargement en local  
 
-Une fois les étapes précédentes terminers, Clonez ce dépôt sur votre machine locale :
+Une fois les étapes précédentes terminées, clonez ce dépôt sur votre machine locale :  
 
-   ```bash
+```bash
+git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
+```
 
-   git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
+## Création d'une application sur Discord Developer Portal  
+
+1. Rendez-vous sur : [Discord Developer Portal](https://discord.com/developers/docs/intro)  
+2. Cliquez sur **Applications**  
+3. Cliquez sur **New Application** en haut à droite  
+4. Donnez un nom à votre **Application**  
+5. Accédez à l'onglet **Bot** et cliquez sur **Reset Token**  
+6. Copiez le jeton généré et collez-le entre guillemets dans le fichier `.env`, comme suit :  
+
+   ```env
+   DISCORD_TOKEN="votre_token_ici"
    ```
 
-## Création d'une application sur Discord Portal:
-
-1. Aller sur ce site: https://discord.com/developers/docs/intro
-2. Cliquez sur **Application**
-3. Cliquez sur **New Application** en haut a droite
-4. Donnez un nom a votre **Application**
-5. Aller dans l'onglet **Bot** et cliquez sur **Reset Token**
-6. Copier la suite de lettre et de chiffres et mettez le entre les parenthèse de **DISCORD_TOKEN=""** dans le fichier **__.env__**
->[!CAUTION]
->Attention a ne jamais divulguez votre token d'authentification, gardez le précieusement cacher !
+> [!CAUTION]  
+> **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.  
