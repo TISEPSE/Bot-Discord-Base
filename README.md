@@ -1,12 +1,14 @@
 # Discord Bot - Projet Personnel
 
 Voici une base de bot Discord avec commandes slash, modifiable selon vos besoins. Il est souvent difficile de trouver des bases fonctionnelles dès le clonage du dépôt. C'est pourquoi je mets à disposition ce bot afin de faciliter la tâche à de nombreux développeurs Discord.  
+<br>
 
 ## Fonctionnalités
 
 - **<ins>Connexion au serveur cible</ins>** : Le bot se connecte directement au serveur grâce à l'ID défini dans le fichier `.env`.  
 - **<ins>Adaptabilité</ins>** : Le code est modulaire et conçu comme une base facilement personnalisable.  
-- **<ins>Commandes slash</ins>** : Il suffit d'ajouter des fichiers de commande dans le dossier dédié pour intégrer de nouvelles fonctionnalités au bot.  
+- **<ins>Commandes slash</ins>** : Il suffit d'ajouter des fichiers de commande dans le dossier dédié pour intégrer de nouvelles fonctionnalités au bot.
+  <br>
 
 ## Dépendances  
 
@@ -21,6 +23,7 @@ node -v
 npm install discord.js
 node -e "console.log(require('discord.js').version)"
 ```
+<br>
 
 ## Téléchargement en local  
 
@@ -29,6 +32,7 @@ Une fois les étapes précédentes terminées, clonez ce dépôt sur votre machi
 ```bash
 git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 ```
+<br>
 
 ## Création d'une application sur Discord Developer Portal  
 
