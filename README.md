@@ -51,7 +51,11 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 > **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
 
 7. Ensuite dans l'onglet <ins>**Bot**</ins> cocher les switches **Presence Intent**, **Server Members Intent** et **Message Content Intent**.
-8. Pour finir Rendez vous sur votre serveur discord comme suit:
+8. Pour finir Rendez vous sur Discord et faite un clique droit sur le logo du serveur comme suit:
 
 ![{9581D0D2-AB4F-4142-8E2B-F2F1FFCC8E4D}](https://github.com/user-attachments/assets/4dfe424e-c991-4549-9e78-90859aee3d95)
+9. Cliquez sur **Copier l'identifiant du serveur** et collez-le entre guillemets dans le fichier `.env`, comme suit :
 
+```env
+   CLIENT_ID="votre_ID_ici"
+   ```
