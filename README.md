@@ -54,6 +54,7 @@ DISCORD_TOKEN="votre_token_ici"
 8. Pour finir Rendez vous sur Discord et faite un clique droit sur le logo du serveur comme suit:
 
 ![{9581D0D2-AB4F-4142-8E2B-F2F1FFCC8E4D}](https://github.com/user-attachments/assets/4dfe424e-c991-4549-9e78-90859aee3d95)
+
 9. Cliquez sur **Copier l'identifiant du serveur** et collez-le entre guillemets dans le fichier `.env`, comme suit :
 
 ```env
