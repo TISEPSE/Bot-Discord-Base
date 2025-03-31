@@ -50,7 +50,7 @@ DISCORD_TOKEN="votre_token_ici"
 
 > [!CAUTION]  
 > **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
-> 
+<br>
 
 7. Ensuite dans l'onglet <ins>**Bot**</ins> cocher les switches **Presence Intent**, **Server Members Intent** et **Message Content Intent**.
 8. Pour finir Rendez vous sur Discord et faite un clique droit sur le logo du serveur vous devriez avoir ceci:
