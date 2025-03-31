@@ -69,6 +69,7 @@ CLIENT_ID="votre_ID_ici"
 
 1. 🖥️ Ouvrez VSCode, appuyez sur `CTRL+J` pour ouvrir le terminal intégré.
 2. 🚀 Exécutez la commande suivante :
+<br>
 
 ```bash
 npm start
