@@ -58,6 +58,7 @@ DISCORD_TOKEN="votre_token_ici"
    - ✅ **Message Content Intent**
 
 8. 🖱️ Pour récupérer l'ID du serveur, faites un clic droit sur l'icône du serveur dans Discord et cliquez sur **Copier l'identifiant du serveur**. Ensuite, collez-le dans le fichier `.env` :
+<br>
 
 ```env
 CLIENT_ID="votre_ID_ici"
