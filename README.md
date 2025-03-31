@@ -8,7 +8,7 @@ Voici une base de bot Discord avec commandes slash, modifiable selon vos besoins
 - **<ins>Connexion au serveur cible</ins>** : Le bot se connecte directement au serveur grâce à l'ID défini dans le fichier `.env`.  
 - **<ins>Adaptabilité</ins>** : Le code est modulaire et conçu comme une base facilement personnalisable.  
 - **<ins>Commandes slash</ins>** : Il suffit d'ajouter des fichiers de commande dans le dossier dédié pour intégrer de nouvelles fonctionnalités au bot.
-  <br>
+<br>
 
 ## Dépendances  
 
