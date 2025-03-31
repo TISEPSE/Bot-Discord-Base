@@ -62,3 +62,5 @@ DISCORD_TOKEN="votre_token_ici"
 ```env
 CLIENT_ID="votre_ID_ici"
 ```
+## Lancement du bot
+1. Dans VsCode faite `ctrl+j` et tapez <ins>**npm start**</ins>
