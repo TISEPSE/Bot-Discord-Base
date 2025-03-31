@@ -7,9 +7,10 @@ Voici une base de bot Discord avec commandes slash, modifiable selon vos besoins
 - 🔗 **Connexion au serveur cible** : Le bot se connecte directement au serveur grâce à l'ID défini dans le fichier `.env`.
 - 🔧 **Adaptabilité** : Le code est modulaire et conçu comme une base facilement personnalisable.
 - 📝 **Commandes slash** : Il suffit d'ajouter des fichiers de commande dans le dossier dédié pour intégrer de nouvelles fonctionnalités au bot.
+<br>
 
 ## 📦 Dépendances
-
+> [!IMPORTANT]
 > ⚠️ **Avant de commencer l'installation, assurez-vous que Node.js est installé !**  
 > Si ce n’est pas le cas, téléchargez-le ici : [Node.js](https://nodejs.org/).
 
@@ -20,6 +21,7 @@ node -v
 npm install discord.js
 node -e "console.log(require('discord.js').version)"
 ```
+<br>
 
 ## 📥 Téléchargement en local
 
@@ -28,6 +30,7 @@ Clonez ce dépôt sur votre machine locale :
 ```bash
 git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 ```
+<br>
 
 ## 🔧 Création d'une application sur Discord Developer Portal
 
@@ -41,7 +44,7 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 ```env
 DISCORD_TOKEN="votre_token_ici"
 ```
-
+>[!CAUTION]
 > ⚠️ **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
 
 7. Dans l'onglet **Bot**, cochez les options suivantes :
@@ -54,6 +57,7 @@ DISCORD_TOKEN="votre_token_ici"
 ```env
 CLIENT_ID="votre_ID_ici"
 ```
+<br>
 
 ## ▶️ Lancement du bot
 
