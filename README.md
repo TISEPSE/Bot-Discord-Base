@@ -33,10 +33,10 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 ## Création d'une application sur Discord Developer Portal  
 
 1. Rendez-vous sur : [Discord Developer Portal](https://discord.com/developers/docs/intro)  
-2. Cliquez sur **Applications**  
-3. Cliquez sur **New Application** en haut à droite  
-4. Donnez un nom à votre **Application**  
-5. Accédez à l'onglet <ins>**Bot**</ins> et cliquez sur **Reset Token**  
+2. Cliquez sur <ins>**Applications**</ins>  
+3. Cliquez sur <ins>**New Application**</ins> en haut à droite  
+4. Donnez un nom à votre <ins>**Application**</ins>  
+5. Accédez à l'onglet <ins>**Bot**</ins> et cliquez sur <ins>**Reset Token**</ins>  
 6. Copiez le jeton généré et collez-le entre guillemets dans le fichier `.env`, comme suit :  
 
    ```env
@@ -46,5 +46,5 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 > [!CAUTION]  
 > **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
 
-7. Ensuite dans l'onglet <ins>**Bot**</ins> cocher les switches **Presence Intent**, **Server Members Intent** et **Message Content Intent**.
+7. Ensuite dans l'onglet <ins>**Bot**</ins> cocher les switches <ins>**Presence Intent**</ins>, <ins>**Server Members Intent**</ins> et <ins>**Message Content Intent**</ins>.
 8. 
