@@ -1,4 +1,5 @@
 # 🤖 Discord Bot - Projet Personnel
+<br>
 
 Voici une base de bot Discord avec commandes slash, modifiable selon vos besoins. Il est souvent difficile de trouver des bases fonctionnelles dès le clonage du dépôt. C'est pourquoi je mets à disposition ce bot afin de faciliter la tâche à de nombreux développeurs Discord.
 
@@ -11,7 +12,7 @@ Voici une base de bot Discord avec commandes slash, modifiable selon vos besoins
 
 ## 📦 Dépendances
 > [!IMPORTANT]
-> ⚠️ **Avant de commencer l'installation, assurez-vous que Node.js est installé !**  
+> **Avant de commencer l'installation, assurez-vous que Node.js est installé !**  
 > Si ce n’est pas le cas, téléchargez-le ici : [Node.js](https://nodejs.org/).
 
 Une fois Node.js installé, exécutez les commandes suivantes pour vérifier son installation et installer Discord.js :
