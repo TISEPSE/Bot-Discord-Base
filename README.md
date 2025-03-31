@@ -31,3 +31,11 @@ Voici une base de bot Discord avec commandes slash. Il peut être modifié comme
 
    git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
    ```
+
+##Création du compte Discord Portal:
+
+1. Aller sur ce site: https://discord.com/developers/docs/intro
+2. Cliquez sur "**Application**"
+3. Cliquez sur "**New Application**" en haut a droite
+4. Donnez un nom a votre "**Application**"
+5. Aller dans l'onglet "**Bot**" et cliquez sur "**Reset Token**"
