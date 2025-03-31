@@ -41,12 +41,15 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 4. ✏️ Donnez un nom à votre **Application**.
 5. 🔑 Accédez à l'onglet **Bot** et cliquez sur **Reset Token**.
 6. 📋 Copiez le jeton généré et collez-le entre guillemets dans le fichier `.env` :
+<br>
 
 ```env
 DISCORD_TOKEN="votre_token_ici"
 ```
+<br>
 >[!CAUTION]
-> ⚠️ **Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
+>**Ne partagez jamais votre token d'authentification !** Gardez-le précieusement caché.
+<br>
 
 7. Dans l'onglet **Bot**, cochez les options suivantes :
    - ✅ **Presence Intent**
