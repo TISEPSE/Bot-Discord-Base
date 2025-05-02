@@ -40,7 +40,7 @@ git clone https://github.com/TISEPSE/Bot-Discord-Cody.git
 3. ➕ Cliquez sur **New Application** en haut à droite.
 4. ✏️ Donnez un nom à votre **Application**.
 5. 🔑 Accédez à l'onglet **Bot** et cliquez sur **Reset Token**.
-6. 📋 Copiez le jeton généré et collez-le entre guillemets dans le fichier `.env` :
+6. 📋 Copiez le **Token** généré et collez-le entre guillemets dans le fichier `.env` :
 
 ```env
 DISCORD_TOKEN="votre_token_ici"
@@ -56,7 +56,7 @@ DISCORD_TOKEN="votre_token_ici"
    - ✅ **Server Members Intent**
    - ✅ **Message Content Intent**
 
-8. 🖱️ Pour récupérer l'ID du serveur, faites un clic droit sur l'icône du serveur dans Discord et cliquez sur **Copier l'identifiant du serveur**. Ensuite, collez-le dans le fichier `.env` :
+8. 🖱️ Pour récupérer l'ID d'un serveur, faites un clic droit sur l'icône du serveur Discord et cliquez sur **Copier l'identifiant du serveur**. Ensuite, collez-le dans le fichier `.env` :
 
 ```env
 CLIENT_ID="votre_ID_ici"
