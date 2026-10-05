@@ -15,5 +15,8 @@
     "punycode": "^2.3.1",
     "whatwg-url": "^14.1.0"
   },
+  "overrides": {
+    "undici": "^6.28.1"
+  },
   "type": "commonjs"
 }
